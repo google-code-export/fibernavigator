@@ -1,0 +1,3 @@
+#summary Issue tracking has moved.
+
+Old issues have been migrated to the [https://github.com/scilus/fibernavigator/issues Fibernavigator Github issues page].
