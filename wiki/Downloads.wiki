@@ -1,0 +1,6 @@
+#summary Downloads have moved
+
+Downloads are now served from two places:
+
+  * Prebuilt packages are served from [https://github.com/scilus/fibernavigator/releases the Fibernavigator Github releases page].
+  * The example data package is now available on [http://scil.dinf.usherbrooke.ca/?page_id=822 the SCIL's website].
